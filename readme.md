@@ -9,7 +9,7 @@ A simple boilerplate for php based application.
 
 # How to dun
 
-``` docker-compose up -d ```
+> docker-compose up -d
 
 ## Thanks to :
 
