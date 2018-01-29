@@ -7,6 +7,9 @@ A simple boilerplate for php based application.
  - Redis
  - Mysql
 
+# How to dun
+
+``` docker-compose up -d ```
 
 ## Thanks to :
 
